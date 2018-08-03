@@ -1,4 +1,4 @@
-# Project Title
+# FizzBuzz Sample Project
 
 This is a simple project to demonstrate unit testing in Java. It has deliberately been kept simple.
 Often FizzBuzz solutions are over-engineered.
